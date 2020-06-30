@@ -16,6 +16,10 @@
       <module>cloud-provider-payment8002</module>
       <module>base-zookeeper-pre</module>
       <module>cloud-provider-payment8004</module>
+      <module>cloud-consumerzk-order80</module>
+      <module>cloud-providerconsul-payment8006</module>
+      <module>cloud-consumerconsul-order80</module>
+      <module>cloud-consumer-feign-order80</module>
   </modules>
   <packaging>pom</packaging>
 
